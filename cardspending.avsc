@@ -1,0 +1,17 @@
+{
+  "type": "record",
+  "namespace": "tech.poc.ucenter",
+  "name": "cardspending",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int",
+      "doc": "The int type is a 32-bit signed integer."
+    },
+    {
+      "name": "message",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    }
+  ]
+}
